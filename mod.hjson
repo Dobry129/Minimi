@@ -1,6 +1,6 @@
-{                                       name: Minimi
-displayName: Mod [red]Minimi[]       //what displays in the mod selection menu
-author: Dobry129
-description: this mod adds units.
-version: "1.0"
-minGameVersion: "100.1"                   }
+{
+	"name": "Minimi Chaos",
+	"author": "Dobry129",
+	"description": "A mod that adds more units into the game.",
+	"version": 0.2
+}
