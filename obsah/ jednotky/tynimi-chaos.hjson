@@ -2,11 +2,11 @@
 	"type": "flyingUnit",
 	"name": "tynimi chaos",
 	"description": "This speedy unit.",
-	"speed": 0.4,
+	"speed": 0.5,
 	"flying": true,
 	"health": 2,
 	"engineOffset": 6.5,
-	"range": 4,
+	"range": 5,
 	"weapon": {
 		"name": "tynimi blaster",
 		"length": 0.9,
@@ -16,8 +16,8 @@
     "type": "MissileBulletType",
 	"lifetime": 50,
     "speed": 2,
-    "splashDamageRadius": 3,
-    "splashDamage": 1,
+    "splashDamageRadius": 5,
+    "splashDamage": 6,
     "frontColor":"ff000066",
     "backColor": "ff000033",
     "homingPower": 1,
@@ -34,7 +34,7 @@
             "liquid": "slag",
             "lifetime": 50,
             "speed": 2,
-            "damage": 2,
+            "damage": 12,
         }
 	}
 }
