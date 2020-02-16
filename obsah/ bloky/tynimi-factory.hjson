@@ -6,9 +6,9 @@ size: 1
 produceTime: 50
 maxSpawn: 2
 consumes: {
-  power: 0.1
+  power: 0.2
   items: {
-    items: [                                lead/37
+    items: [                                lead/127
     ]
   }
 }
