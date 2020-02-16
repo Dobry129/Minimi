@@ -1,0 +1,6 @@
+{                                       name: Minimi
+displayName: Mod [red]Minimi[]       //what displays in the mod selection menu
+author: Dobry129
+description: this mod adds units.
+version: "1.0"
+minGameVersion: "100.3"                   }
