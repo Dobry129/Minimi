@@ -16,8 +16,8 @@ consumes: {
 category: units
 research: minimi-factory
 requirements: [
-  silicon/450 
+  silicon/900
   titanium/230
-  copper/260
+  copper/700
   lead/450        
 ]
