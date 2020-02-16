@@ -1,0 +1,19 @@
+name: Tynimi Chaos Factory
+description: Makes Tynimi units.
+type: UnitFactory
+unitType: tynimi-chaos
+size: 1
+produceTime: 50
+maxSpawn: 2
+consumes: {
+  power: 0.1
+  items: {
+    items: [                                lead/37
+    ]
+  }
+}
+category: units
+research: tynimi-factory
+requirements: [
+  copper/26
+]
