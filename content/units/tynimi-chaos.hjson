@@ -14,10 +14,10 @@
 		"alternate": true,
 		"bullet": {
     "type": "MissileBulletType",
-	"lifetime": 60,
+	"lifetime": 40,
     "speed": 2,
     "splashDamageRadius": 64,
-    "splashDamage": 26,
+    "splashDamage": 16,
     "frontColor":"ff000066",
     "backColor": "ff000033",
     "homingPower": 1,
@@ -28,7 +28,7 @@
         "liquid": "oil",
         "lifetime": 30,
         "speed": 1,
-        "fragBullets": 100,
+        "fragBullets": 10,
         "fragBullet": {
             "type": "LiquidBulletType",
             "liquid": "slag",
