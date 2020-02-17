@@ -4,7 +4,7 @@
 	"description": "This speedy unit.",
 	"speed": 0.5,
 	"flying": true,
-	"health": 16,
+	"health": 18,
 	"engineOffset": 1.5,
 	"range": 360,
 	"weapon": {
@@ -14,10 +14,10 @@
 		"alternate": true,
 		"bullet": {
     "type": "MissileBulletType",
-	"lifetime": 40,
+	"lifetime": 60,
     "speed": 2,
     "splashDamageRadius": 64,
-    "splashDamage": 16,
+    "splashDamage": 23,
     "frontColor":"ff000066",
     "backColor": "ff000033",
     "homingPower": 1,
