@@ -13,7 +13,7 @@ consumes: {
   }
 }
 category: units
-research: tynimi-factory
+research: revenant-factory
 requirements: [
   copper/26
 ]
