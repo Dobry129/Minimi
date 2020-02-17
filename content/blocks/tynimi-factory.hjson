@@ -15,5 +15,5 @@ consumes: {
 category: units
 research: revenant-factory
 requirements: [
-  copper/26
+  copper/260
 ]
