@@ -1,6 +1,7 @@
 {
 	"name": "Minimi Chaos",
 	"author": "Dobry129",
-	"description": "A mod that adds more units into the game.",
-	"version": 0.2
+        "displayName" [sky]Minimi [orange]Chaos
+	"description": "A mod that adds more units into the game [sky]Minimi and [royal]tynimi.",
+	"version": 0.3
 }
