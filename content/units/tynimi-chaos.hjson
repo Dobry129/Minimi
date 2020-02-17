@@ -5,7 +5,7 @@
 	"speed": 0.5,
 	"flying": true,
 	"health": 18,
-	"engineOffset": 10.5,
+	"engineOffset": 0.5,
 	"range": 360,
 	"weapon": {
 		"name": "tynimi blaster",
