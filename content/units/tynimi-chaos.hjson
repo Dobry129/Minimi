@@ -4,7 +4,7 @@
 	"description": "This speedy unit.",
 	"speed": 0.5,
 	"flying": true,
-	"health": 2,
+	"health": 16,
 	"engineOffset": 1.5,
 	"range": 360,
 	"weapon": {
@@ -14,7 +14,7 @@
 		"alternate": true,
 		"bullet": {
     "type": "MissileBulletType",
-	"lifetime": 130,
+	"lifetime": 60,
     "speed": 2,
     "splashDamageRadius": 64,
     "splashDamage": 26,
