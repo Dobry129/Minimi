@@ -5,7 +5,7 @@
 	"speed": 0.5,
 	"flying": true,
 	"health": 6,
-	"engineOffset": 3.5,
+	"engineOffset": 0.5,
 	"range": 180,
 	"weapon": {
 		"name": "tynimi blaster",
@@ -14,9 +14,9 @@
 		"alternate": true,
 		"bullet": {
     "type": "MissileBulletType",
-	"lifetime": 60,
+	"lifetime": 260,
     "speed": 2,
-    "splashDamageRadius": 32,
+    "splashDamageRadius": 64,
     "splashDamage": 12,
     "frontColor":"ff000066",
     "backColor": "ff000033",
