@@ -1,0 +1,15 @@
+{
+	"type": "SolarGenerator",
+	"name": "Solar Panel",
+	"description": "A good solar panel.",
+	"size": 2,
+	"hasPower": true,
+	"powerProduction": 0.5,
+	"requirements": [
+		{ "item": "copper", "amount": 150 },
+		{ "item": "metaglass", "amount": 35 },
+		{ "item": "lead", "amount": 50 }
+	],
+	"category": "power",
+	"research": "impact-reactor"
+}
