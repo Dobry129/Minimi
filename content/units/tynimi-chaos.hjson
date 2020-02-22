@@ -13,10 +13,10 @@
 		"reload": 7,
 		"alternate": true,
 		"bullet": {
-    "type": "MassDriverBolt",
-	"lifetime": 60,
+    "type": "MissileBulletType",
+	"lifetime": 20,
     "speed": 2,
-    "splashDamageRadius": 64,
+    "splashDamageRadius": 32,
     "splashDamage": 12,
     "frontColor":"ff000066",
     "backColor": "ff000033",
