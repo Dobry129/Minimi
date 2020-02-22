@@ -10,11 +10,11 @@
 	"weapon": {
 		"name": "tynimi blaster",
 		"length": 0.9,
-		"reload": 7,
+		"reload": 0.5,
 		"alternate": true,
 		"bullet": {
     "type": "MissileBulletType",
-	"lifetime": 20,
+	"lifetime": 60,
     "speed": 2,
     "splashDamageRadius": 32,
     "splashDamage": 12,
