@@ -14,7 +14,7 @@
 		"alternate": true,
 		"bullet": {
     "type": "MissileBulletType",
-	"lifetime": 60,
+	"lifetime": 180,
     "speed": 2,
     "splashDamageRadius": 64,
     "splashDamage": 12,
