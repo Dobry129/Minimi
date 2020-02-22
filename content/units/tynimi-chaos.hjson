@@ -10,7 +10,7 @@
 	"weapon": {
 		"name": "tynimi blaster",
 		"length": 0.9,
-		"reload": 1.5,
+		"reload": 7,
 		"alternate": true,
 		"bullet": {
     "type": "FlakBulletType",
