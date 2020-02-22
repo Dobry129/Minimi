@@ -17,7 +17,7 @@
 	"lifetime": 60,
     "speed": 2,
     "splashDamageRadius": 64,
-    "splashDamage": 23,
+    "splashDamage": 12,
     "frontColor":"ff000066",
     "backColor": "ff000033",
     "homingPower": 1,
