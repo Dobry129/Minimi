@@ -16,7 +16,7 @@
     "type": "MissileBulletType",
 	"lifetime": 180,
     "speed": 2,
-    "splashDamageRadius": 64,
+    "splashDamageRadius": 3,
     "splashDamage": 12,
     "frontColor":"ff000066",
     "backColor": "ff000033",
