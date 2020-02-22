@@ -13,7 +13,7 @@
 		"reload": 1.5,
 		"alternate": true,
 		"bullet": {
-    "type": "MissileBulletType",
+    "type": "standardCopperType",
 	"lifetime": 60,
     "speed": 2,
     "splashDamageRadius": 64,
