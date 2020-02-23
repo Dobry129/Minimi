@@ -25,7 +25,7 @@
     "shootEffect": "shootBig2",
     "smokeEffect": "smeltsmoke",
     "despawnEffect": "none",
-	"hitEffect": "hitFlameSmall",
+	"hitEffect": "hitBulletBig",
         "keepVelocity": "false",
 	"pierce": "true",
 	"homingPower": 2.25,
