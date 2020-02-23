@@ -15,7 +15,7 @@
 		"bullet": {
     "type": "BasicBulletType",
 	"lifetime": 28,
-    "speed": 2,
+    "speed": 0.2,
     "splashDamageRadius": 6,
     "splashDamage": 36,
     "frontColor":"ff000066",
@@ -23,7 +23,7 @@
     "homingPower": 7,
     "homingRange": 32,
     "pierce":true 
-    "bulletSprite":bullet-1
+    "bulletSprite":bullet-2
 }
 }
  }
