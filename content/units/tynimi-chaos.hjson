@@ -13,7 +13,7 @@
 		"reload": 37.5,
 		"alternate": true,
 		"bullet": {
-    "type": "MissileBulletType",
+    "type": "BasicBulletType",
 	"lifetime": 28,
     "speed": 2,
     "splashDamageRadius": 6,
@@ -22,21 +22,8 @@
     "backColor": "ff000033",
     "homingPower": 7,
     "homingRange": 32,
-    "fragBullets": 6,
-    "fragBullet": {
-        "type": "LiquidBulletType",
-        "liquid": "oil",
-        "lifetime": 36,
-        "speed": 1,
-        "fragBullets": 10,
-        "fragBullet": {
-            "type": "LiquidBulletType",
-            "liquid": "slag",
-            "lifetime": 10,
-            "speed": 2,
-            "damage": 24,
-        }
-	}
+    "pierce":true 
+    "bulletSprite":bullet-1
 }
 }
  }
