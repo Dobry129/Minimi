@@ -17,7 +17,7 @@
    "speed": 0.5,
         "drag": 0.01875,
         "lifetime": 25,
-    "damage": 27,
+    "damage": 60,
     "bulletWidth": 3,
     "bulletHeight": 4,
 	"frontColor": "ff000033",
