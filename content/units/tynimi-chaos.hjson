@@ -22,7 +22,7 @@
     "bulletHeight": 4,
 	"frontColor": "ff000033",
 	"backColor": "ff0000",
-    "shootEffect": "shootbig2",
+    "shootEffect": "shootBig2",
     "smokeEffect": "smeltsmoke",
     "despawnEffect": "none",
 	"hitEffect": "hitflamesmall",
