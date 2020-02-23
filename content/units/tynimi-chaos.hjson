@@ -10,7 +10,7 @@
 	"weapon": {
 		"name": "tynimi blaster",
 		"length": 0.9,
-		"reload": 7.5,
+		"reload": 37.5,
 		"alternate": true,
 		"bullet": {
     "type": "MissileBulletType",
@@ -21,7 +21,7 @@
     "frontColor":"ff000066",
     "backColor": "ff000033",
     "homingPower": 7,
-    "homingRange": 12,
+    "homingRange": 32,
     "fragBullets": 6,
     "fragBullet": {
         "type": "LiquidBulletType",
