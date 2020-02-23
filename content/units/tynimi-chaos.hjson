@@ -23,7 +23,7 @@
     "homingPower": 7,
     "homingRange": 32,
     "pierce":true 
-    "bulletSprite":bullet-2
+    "bulletSprite":bullet-1
 }
 }
  }
