@@ -30,7 +30,7 @@
 	"pierce": "true",
 	"homingPower": 2.25,
 	"homingRange": 100,
-	"bulletSprite": "minimi-bullet-2"
+	"bulletSprite": "mini-bullet-2"
 	"inaccuracy": 15,   
 }
 }
