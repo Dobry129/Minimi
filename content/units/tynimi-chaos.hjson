@@ -22,7 +22,7 @@
     "backColor": "ff000033",
     "homingPower": 7,
     "homingRange": 32, 
-    "bulletSprite": "Minimi-bullet-1"
+    "bulletSprite": "diamond-ore-diamondbullet"
 }
 }
  }
