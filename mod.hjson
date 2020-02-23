@@ -1,7 +1,7 @@
 {
-	"name": "Mini Chaos",
+	"name": "Mini",
 	"author": "Dobry129",
-        "displayName": "[sky]Mini [orange]Chaos",
-	"description": "A mod that adds more units into the game Minimi and tynimi.",
-	"version": 0.4
+        "displayName": "[sky]Mini",
+	"description": "A mod that adds more units into the game and generator.",
+	"version": 0.5
 }
