@@ -5,7 +5,7 @@ speed: 0.1
 flying: true
 health: 700
 engineOffset: 5.5
-range: 320
+range: 800
 weapon: {
   name: minimi-blaster
   length: 2.0
