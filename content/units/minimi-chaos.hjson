@@ -11,5 +11,6 @@ weapon: {
   length: 2.0
   reload: 10
   alternate: true
-  bullet: lancerLaser
+  bullet: lancerLaser 
+  shootSound: laser
 }
