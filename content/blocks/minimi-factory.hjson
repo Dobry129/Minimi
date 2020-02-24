@@ -4,9 +4,9 @@ type: UnitFactory
 unitType: minimi-chaos
 size: 3
 produceTime: 800
-maxSpawn: 2
+maxSpawn: 1
 consumes: {
-  power: 0.5
+  power: 0.6
   items: {
     items: [
       silicon/10
@@ -19,5 +19,6 @@ requirements: [
   silicon/900
   titanium/230
   copper/700
-  lead/450        
+  lead/450      
+  metaglass/120
 ]
