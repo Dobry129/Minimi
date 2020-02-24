@@ -6,7 +6,7 @@
 	"hasPower": true,
 	"powerProduction": 0.5,
 	"requirements": [
-		{ "item": "copper", "amount": 150 },
+		{ "item": "copper", "amount": 70 },
 		{ "item": "metaglass", "amount": 35 },
 		{ "item": "lead", "amount": 50 }
 	],
