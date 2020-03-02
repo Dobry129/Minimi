@@ -1,0 +1,17 @@
+{
+	"type": "ThermalGenerator",
+	"name": "Single Generator",
+	"description": "generate energi, it's very cheap generator",
+	"size": 1,
+	"hasPower": "true",
+	"hasItems": "true",
+	"itemDuration": 150,
+	"powerProduction": 2.0,
+	"requirements": [
+		{ "item": "copper", "amount": 125 },
+		{ "item": "lead", "amount": 75 }
+	],
+	"category": "power",
+	"research": "solar-pannel",
+}
+

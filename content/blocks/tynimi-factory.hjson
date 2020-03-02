@@ -3,12 +3,12 @@ description: Makes Tynimi units.
 type: UnitFactory
 unitType: tynimi-chaos
 size: 1
-produceTime: 1000
+produceTime: 2000
 maxSpawn: 1
 consumes: {
-  power: 0.5
+  power: 0.6
   items: {
-    items: [                                lead/12
+    items: [                                lead/37
     ]
   }
 }

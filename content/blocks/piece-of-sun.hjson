@@ -1,0 +1,14 @@
+{
+    "type": "Floor",
+    "name": "piece of sun",
+    "damageTaken": 5,
+	"edge": "stone",
+	"status": "burning",
+    "statusDuration": 360
+	"blendGroup": "stone",
+    "drownUpdateEffect": "smelt",
+    "playerUnminiable": "true",
+    "walkEffect": "ripple",
+    "variants": 3,
+    "attributes": { "array": [ 1.25, 0, 0, 0 ] }
+}

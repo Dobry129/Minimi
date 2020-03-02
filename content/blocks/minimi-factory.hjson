@@ -3,10 +3,10 @@ description: Makes Minimi units.
 type: UnitFactory
 unitType: minimi-chaos
 size: 3
-produceTime: 18000
-maxSpawn: 1
+produceTime: 300
+maxSpawn: 2
 consumes: {
-  power: 1.6
+  power: 0.5
   items: {
     items: [
       silicon/10
@@ -14,11 +14,10 @@ consumes: {
   }
 }
 category: units
-research: tynimi-factory
+research: minimi-factory
 requirements: [
-  silicon/900
+  silicon/450 
   titanium/230
-  copper/700
-  lead/450      
-  metaglass/120
+  copper/260
+  lead/450        
 ]
