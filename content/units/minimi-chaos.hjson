@@ -3,14 +3,13 @@ name: Minimi Chaos
 description: hard and slow.
 speed: 0.1
 flying: true
-health: 700
+health: 900
 engineOffset: 5.5
-range: 800
+range: 30
 weapon: {
   name: minimi-blaster
   length: 2.0
   reload: 10
   alternate: true
-  bullet: lancerLaser 
-  shootSound: laser
+  bullet: lancerLaser
 }
