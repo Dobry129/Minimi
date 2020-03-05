@@ -1,0 +1,18 @@
+type: minerDrone
+name: lumini
+description:it is big and hard unit.
+speed: 0.5
+minePower: 3
+speed: 0.2
+flying: true
+drawItems: true
+range: 50
+drag: 0.2
+engineSize: 2.2
+engineOffset: 7.2
+health: 360
+toMine: [copper, lead,titanium,]
+weapon: {
+  bullet: lightning
+  name:none
+}
