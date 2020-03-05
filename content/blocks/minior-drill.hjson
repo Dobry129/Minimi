@@ -1,0 +1,20 @@
+name: MiniorDrill
+description: Extracts groundwater. Useful in locations with no surface water available. It extracts groundwater very slow and a little (special for luminil).
+type: SolidPump
+health: 30
+size: 1
+liquidCapacity: 3
+warmupSpeed: 0.006
+rotateSpeed: 1
+hasPower: false
+updateEffect: wet
+updateEffectChance: 0.04
+pumpAmount: 0.002
+attribute: water
+requirements: [
+  lead/50
+  copper/20
+  luminore/2
+]
+category: production
+research: oil-extractor

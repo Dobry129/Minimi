@@ -1,0 +1,26 @@
+{
+	"type": "Drill",
+	"name": "Luminil Drill",
+   	"description": "Little Drill that need's minior drill",
+   	"size": 1,
+	"tier": 3,
+   	"drillTime": 500,
+	"consumes": {
+        "liquid": {
+            "liquid": "water",
+            "amount": 0.001,
+            "booster": "true",
+            "optional": "true",
+  }
+	}
+   	"itemCapacity": 15,
+    "liquidBoostIntensity": 6.75,
+    "liquidCapacity": 12,
+    "requirements":[
+		    { "item": "luminore", "amount": 30 },
+           	{ "item": "lead", "amount":180 }
+            { "item": "copper", "amount":125 }       { "item": "titanium", "amount":75 }
+        ],
+       "category": "production",
+       "research": "pneumatic-drill"
+}

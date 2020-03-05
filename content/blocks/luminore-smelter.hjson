@@ -1,0 +1,23 @@
+{
+	"type": "GenericSmelter",
+	"name": "Luminore Smelter",
+	"description": "A cheap smelter that makes luminore",
+	"outputItem": {"item": "luminore", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 1800,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 6.3,
+		},
+	"requirements": [
+		{ "item": "copper", "amount": 350 },
+		{ "item": "lead", "amount": 275 },
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"research": "graphite-press"
+	"idleSoundVolume": 0.5
+}

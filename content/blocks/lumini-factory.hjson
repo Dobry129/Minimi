@@ -1,0 +1,23 @@
+name: Lumini Factory
+description: Produces lumini mining drons.
+type: UnitFactory
+unitType: lumini
+size: 3
+produceTime: 6000
+maxSpawn: 1
+consumes: {
+  power: 2
+  items: {
+    items: [
+      copper/37
+      luminore/9
+    ]
+  }
+}
+category: units
+requirements: [
+  copper/70
+  luminore/7
+  lead/72
+]
+research: minimi-factory
