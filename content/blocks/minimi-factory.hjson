@@ -1,23 +1,23 @@
 name: Minimi Chaos Factory
-description: Makes Minimi units.
+description: Makes Minimi units.It are hard and slow units.
 type: UnitFactory
 unitType: minimi-chaos
 size: 3
-produceTime: 300
-maxSpawn: 2
+produceTime: 18300
+maxSpawn: 1
 consumes: {
-  power: 0.5
+  power: 9.5
   items: {
     items: [
-      silicon/10
+      luminore/32
     ]
   }
 }
 category: units
-research: minimi-factory
+research: tynimi-factory
 requirements: [
-  silicon/450 
-  titanium/230
-  copper/260
+  titanium/460
+  copper/520
+  luminore/100
   lead/450        
 ]

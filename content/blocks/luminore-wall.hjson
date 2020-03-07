@@ -1,0 +1,10 @@
+name: Luminore Wall
+description: A wall made of luminore.
+type: Wall
+health: 600
+size: 1
+requirements: [
+  luminore/1
+]
+category: defense
+research: titanium-wall

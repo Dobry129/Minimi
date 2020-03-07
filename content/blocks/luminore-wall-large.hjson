@@ -1,0 +1,10 @@
+name: Large Luminore Wall
+description: A wall made of luminore.3 luminore walls +1 free.
+type: Wall
+health: 2400
+size: 1
+requirements: [
+  luminore/3
+]
+category: defense
+research: luminore-wall
