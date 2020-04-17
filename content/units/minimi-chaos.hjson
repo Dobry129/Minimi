@@ -1,0 +1,18 @@
+type: flyingUnit
+name: Minimi Chaos
+description: hard and slow.
+speed: 0.2
+flying: true
+health: 900
+engineSize: 4
+engineOffset: 5.5
+range: 30
+weapon: {
+  name: minimi-blaster
+  shootSound: laser
+  smokeEffect: none
+  length: 2.0
+  reload: 150
+  alternate: true
+  bullet: lancerLaser
+}
