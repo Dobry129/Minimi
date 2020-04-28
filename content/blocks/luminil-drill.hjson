@@ -17,9 +17,9 @@
     "liquidBoostIntensity": 6.75,
     "liquidCapacity": 12,
     "requirements":[
-		    { "item": "luminore", "amount": 30 },
+		    { "item": "luminore", "amount": 120 },
            	{ "item": "lead", "amount":180 }
-            { "item": "copper", "amount":125 }       { "item": "titanium", "amount":75 }
+            { "item": "copper", "amount":125 }       { "item": "titanium", "amount":150 }
         ],
        "category": "production",
        "research": "pneumatic-drill"
