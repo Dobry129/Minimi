@@ -3,7 +3,7 @@
 	"name": "Luminil Drill",
    	"description": "Little Drill that need's minior drill",
    	"size": 1,
-	"tier": 3,
+	"tier": 4,
    	"drillTime": 500,
 	"consumes": {
         "liquid": {
