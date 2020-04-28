@@ -4,7 +4,7 @@ type: UnitFactory
 unitType: minimi-chaos
 size: 3
 produceTime: 18300
-maxSpawn: 1
+maxSpawn: 2
 consumes: {
   power: 9.5
   items: {
