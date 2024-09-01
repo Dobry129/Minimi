@@ -1,4 +1,6 @@
 #BY:Dobry129
+This mod is for old version of game. 
+The mod is no longer in development!
 
  adds to game
 
